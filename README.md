@@ -1,4 +1,4 @@
-# ElectionsDataAnalysis
+# ElectionsDataAnalysis (Hebrew)
 
 This project intended to analyse the Israeli elections on 2019a, 2019b, 2020 and 2021. 
 
