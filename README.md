@@ -4,11 +4,11 @@ This project intended to analyse the Israeli elections on 2019a, 2019b, 2020 and
 
 **Files:**
 
-**data -**
+**data -** <br/>
 Contains the data which used in this project.
 The data is taken from: https://votes21.bechirot.gov.il/
 
-**2020-2021 elections comparison -**
+**2020-2021 elections comparison -** <br\>
 Compare Israeli 2020 and 2021 elections using dimensionality reduction tools.
 
 **Kahol-Lavan Analysis -**
